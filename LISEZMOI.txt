@@ -1,0 +1,14 @@
+FORGE - installation sur ton téléphone
+
+1. Crée un dépôt GitHub (par exemple « Forge ») et mets-y tous ces fichiers
+   (Add file > Upload files > Commit changes).
+2. Dans le dépôt : Settings > Pages > Branch : main, dossier /(root) > Save.
+3. Après 1 à 2 minutes, ouvre https://<ton-pseudo>.github.io/Forge/ sur ton téléphone.
+4. Android (Chrome) : menu ⋮ > Installer l'application.
+   iPhone (Safari) : bouton Partager > Sur l'écran d'accueil.
+
+Analyse des plats en photo et version Claude du coach :
+Réglages > Analyse photo > colle ta clé API Anthropic (console.anthropic.com).
+La clé reste uniquement sur ton téléphone.
+
+Mise à jour : remplace index.html et sw.js par les nouvelles versions.
